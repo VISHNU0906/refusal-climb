@@ -1,0 +1,5 @@
+# Runtime dependency: numpy ONLY (fully offline — no downloads/GPU/API keys).
+numpy>=1.24
+
+# Dev / test (or use:  pip install -e ".[dev]")
+pytest>=7.0
